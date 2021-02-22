@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
-    "cheerio": "^0.15.0",
+    "cheerio": "^0.20.0",
     "gray-matter": "^2.0.2",
     "html-pdf": "^2.1.0",
     "imgur": "^0.1.7",
